@@ -9,9 +9,7 @@
 
 <p align="center">
   <a href="https://www.cloudpanel.io" target="_blank">
-    <kbd>
-      <img src="https://www.cloudpanel.io/assets/images/hero.svg?v=0.0.2">
-    </kbd>
+    <img src="https://www.cloudpanel.io/assets/images/hero.svg?v=0.0.2">
   </a>
 </p>
 
