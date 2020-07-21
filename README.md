@@ -12,7 +12,7 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
 
 <p align="center">
   <a href="https://www.cloudpanel.io" target="_blank">
-    <img src="/assets/images/cloudpanel.png?v=0.0.4">
+    <img src="/assets/images/cloudpanel.svg?v=0.0.4">
   </a>
 </p>
 
