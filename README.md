@@ -11,7 +11,9 @@
   <a href="https://www.cloudpanel.io" target="_blank">
     <img src="https://www.cloudpanel.io/assets/images/hero.svg?v=0.0.2">
   </a>
-  |![pictureAliasName](https://www.cloudpanel.io/assets/images/hero.svg?v=0.0.2)|
+  <table><tr><td>
+      <img src="https://www.cloudpanel.io/assets/images/hero.svg?v=0.0.2">
+  </td></tr></table>
 </p>
 
 Highlights
