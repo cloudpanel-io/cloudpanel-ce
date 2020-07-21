@@ -18,7 +18,7 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
 
 ## Highlights
 
-* Easy to use Control Panel
+* **Easy to use Control Panel**
 * Up and running within 60 seconds
 * Supports all common PHP Apps
 * One-Click Let's Encrypt Certificates
