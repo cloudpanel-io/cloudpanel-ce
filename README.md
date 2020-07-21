@@ -8,7 +8,7 @@
 **CloudPanel** uses lightweight components like **NGINX**, **PHP-FPM** and **MySQL** for maximum performance.
 It has been developed with more than ten years of Magento hosting experience in the AWS cloud.
 
-With **CloudPanel**, you can run your favorite PHP application in any cloud or dedicated server within minutes.
+With **CloudPanel**, you can run your **PHP application** in any cloud or dedicated server within minutes.
 
 <p align="center">
   <a href="https://www.cloudpanel.io" target="_blank">
@@ -18,7 +18,6 @@ With **CloudPanel**, you can run your favorite PHP application in any cloud or d
 
 Highlights
 ------------
-
 * Easy to use Control Panel
 * Up and running within 60 seconds
 * Supports all common PHP Apps
@@ -32,3 +31,5 @@ Highlights
 Installation
 ------------
 
+* [Amazon Web Services](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-aws)
+* [Digital Ocean](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-digital-ocean)
