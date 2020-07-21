@@ -4,8 +4,11 @@
   </a>
 </p>
 
-[CloudPanel][1] is a free server control panel for **PHP**, build for the **cloud** for maximum **performance** and **security**.
+[CloudPanel](https://www.cloudpanel.io) is a free server control panel for **PHP**, build for the **cloud** for maximum **performance** and **security**.
 **CloudPanel** uses lightweight components like **NGINX**, **PHP-FPM** and **MySQL** for maximum performance.
+It has been developed with more than ten years of Magento hosting experience in the AWS cloud.
+
+With **CloudPanel**, you can run your favorite PHP application in any cloud or dedicated server within minutes.
 
 <p align="center">
   <a href="https://www.cloudpanel.io" target="_blank">
@@ -25,4 +28,7 @@ Highlights
 * Support for all big clouds
 * Cloud Functionalities
 * Supports > 10 languages
+
+Installation
+------------
 
