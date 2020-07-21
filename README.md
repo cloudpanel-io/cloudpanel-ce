@@ -38,4 +38,4 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
 
 ## Documentation
 
-sdfsdf
+[https://www.cloudpanel.io/docs/cloudpanel-ce/](https://www.cloudpanel.io/docs/cloudpanel-ce/)
