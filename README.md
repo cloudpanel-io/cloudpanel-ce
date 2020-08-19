@@ -32,7 +32,7 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
 ## Installation
 
 * [Amazon Web Services](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-aws)
-* [Digital Ocean](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-digital-ocean)
+* [Digital Ocean](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-digital-ocean-marketplace)
 * [Google Cloud](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-google-cloud)
 * [Microsoft Azure](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-microsoft-azure)
 * [Other](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-other)
