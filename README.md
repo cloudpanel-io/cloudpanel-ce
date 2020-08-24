@@ -16,7 +16,7 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
   </a>
 </p>
 
-## Highlights
+## :bomb: Highlights
 
 * **FREE**
 * **Easy to use Control Panel**
