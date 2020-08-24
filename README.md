@@ -29,7 +29,7 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
 * **Cloud Functionalities**
 * **Supports > 10 languages**
 
-## Installation
+## :floppy_disk: Installation
 
 * [Amazon Web Services](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-aws)
 * [Digital Ocean](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-digital-ocean-marketplace)
