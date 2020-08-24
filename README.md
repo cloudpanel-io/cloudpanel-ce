@@ -16,7 +16,7 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
   </a>
 </p>
 
-## :bomb: Highlights
+## :boom: Highlights
 
 * **FREE**
 * **Easy to use Control Panel**
@@ -37,7 +37,7 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
 * [Microsoft Azure](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-microsoft-azure)
 * [Other](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-other)
 
-## Documentation
+## :green_book: Documentation
 
 [https://www.cloudpanel.io/docs/cloudpanel-ce/](https://www.cloudpanel.io/docs/cloudpanel-ce/)
 
