@@ -43,6 +43,7 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
 
 ## :sparkling_heart: Support This Project
 
+* Please star the project
 * Write about **CloudPanel** on platforms like **Twitter**, **Facebook** or **LinkedIn**
 * Follow us on [Twitter](https://twitter.com/cloudpanel_io) and retweet our tweets
 * Write a **Blog** post about **CloudPanel**
