@@ -43,6 +43,8 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
 
 ## :chart_with_upwards_trend: Roadmap
 
+* [ARM Version for AWS Graviton](https://github.com/cloudpanel-io/cloudpanel-ce/projects) - **ETA: Q4 2020** 🚀
+
 ## :sparkling_heart: Support This Project
 
 * Please star the project
