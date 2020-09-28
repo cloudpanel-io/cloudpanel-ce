@@ -41,6 +41,8 @@ With **CloudPanel**, you can run your **PHP application** in any cloud or dedica
 
 [https://www.cloudpanel.io/docs/cloudpanel-ce/](https://www.cloudpanel.io/docs/cloudpanel-ce/)
 
+## :chart_with_upwards_trend: Roadmap
+
 ## :sparkling_heart: Support This Project
 
 * Please star the project
