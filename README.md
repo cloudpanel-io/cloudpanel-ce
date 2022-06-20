@@ -38,14 +38,6 @@ Run **PHP**, **Node.js**, **Static Websites**, and Python applications in no tim
 - [Vultr](https://www.cloudpanel.io/docs/v2/getting-started/vultr/installation/marketplace/)
 - [Other](https://www.cloudpanel.io/docs/v2/getting-started/other/)
 
-## :green_book: Documentation
-
-[https://www.cloudpanel.io/docs/v2/](https://www.cloudpanel.io/docs/v2/)
-
-## :chart_with_upwards_trend: Roadmap
-
-* [CloudPanel 2](https://github.com/cloudpanel-io/cloudpanel-ce/projects) - **ETA: Q3 2021** 🥳
-
 ## :sparkling_heart: Support This Project
 
 * Please star the project
@@ -54,5 +46,5 @@ Run **PHP**, **Node.js**, **Static Websites**, and Python applications in no tim
 * Write a **Blog** post about **CloudPanel**
 * Give us [Feedback](https://www.cloudpanel.io/feedback/) to improve **CloudPanel**
 * Report [Bugs](https://github.com/cloudpanel-io/cloudpanel-ce/issues) on Github
-* Help others on [Stack Overflow](https://stackoverflow.com/questions/tagged/cloudpanel) and [Discord](https://discord.cloudpanel.io/)
+* Join our [Discord Server](https://discord.cloudpanel.io/)
 * [Get in touch with us](https://www.cloudpanel.io/contact/) if you have other ideas
