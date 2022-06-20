@@ -4,42 +4,43 @@
   </a>
 </p>
 
-[CloudPanel](https://www.cloudpanel.io) is a free server control panel for **PHP**, build for the **cloud** for maximum **performance** and **security**.
-**CloudPanel** uses lightweight components like **NGINX**, **PHP-FPM** and **MySQL** for maximum performance.
-It has been developed with more than ten years of Magento hosting experience in the AWS cloud.
+[CloudPanel](https://www.cloudpanel.io) is a free and modern server control panel to configure and manage a server with an obsessive focus on simplicity.
 
-With **CloudPanel**, you can run your **PHP application** in any cloud or dedicated server within minutes.
+Run **PHP**, **Node.js**, **Static Websites**, and Python applications in no time on a **high-performance technology stack**.
 
 <p align="center">
   <a href="https://www.cloudpanel.io" target="_blank">
-    <img src="/assets/images/cloudpanel.svg?v=0.0.4">
+    <img src="/assets/images/cloudpanel.png?v=0.0.1">
   </a>
 </p>
 
 ## :boom: Highlights
 
-* **FREE**
-* **Easy to use Control Panel**
-* **Up and running within 60 seconds**
-* **Supports all common PHP Apps**
-* **One-Click Let's Encrypt Certificates**
-* **Multiple PHP Versions**
-* **NGINX Support**
-* **Support for all big clouds**
-* **Cloud Functionalities**
-* **Supports > 10 languages**
+- **Free**
+- **Easy to use**
+- **Community Driven**
+- **Modern**
+- **Secure (free SSL/TLS certificates)**
+- **Cloudflare integration**
+- **High Performance**
+- **Ready to go within 1 minute**
+- **Supports all major clouds**
+- **Debian 11 and Ubuntu 22.04 support**
+- **Support for X86 and ARM**
 
 ## :floppy_disk: Installation
 
-* [Amazon Web Services](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-aws)
-* [Digital Ocean](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-digital-ocean-marketplace)
-* [Google Cloud](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-google-cloud)
-* [Microsoft Azure](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-microsoft-azure)
-* [Other](https://www.cloudpanel.io/docs/cloudpanel-ce/installation-other)
+- [Amazon Web Services](https://www.cloudpanel.io/docs/v2/getting-started/amazon-web-services/installation/ami/)
+- [Digital Ocean](https://www.cloudpanel.io/docs/v2/getting-started/digital-ocean/installation/marketplace/)
+- [Hetzner Cloud](https://www.cloudpanel.io/docs/v2/getting-started/hetzner-cloud/installation/installer/)
+- [Google Compute Engine](https://www.cloudpanel.io/docs/v2/getting-started/google-compute-engine/installation/installer/)
+- [Microsoft Azure](https://www.cloudpanel.io/docs/v2/getting-started/microsoft-azure/installation/installer/)
+- [Vultr](https://www.cloudpanel.io/docs/v2/getting-started/vultr/installation/marketplace/)
+- [Other](https://www.cloudpanel.io/docs/v2/getting-started/other/)
 
 ## :green_book: Documentation
 
-[https://www.cloudpanel.io/docs/cloudpanel-ce/](https://www.cloudpanel.io/docs/cloudpanel-ce/)
+[https://www.cloudpanel.io/docs/v2/](https://www.cloudpanel.io/docs/v2/)
 
 ## :chart_with_upwards_trend: Roadmap
 
