@@ -33,7 +33,6 @@ body:
           label: Possible Solution
           description: |
             Optional: only if you have suggestions on a fix/reason for the bug
-            Don't hesitate to create a pull request with your solution, it helps get faster feedback.
     - type: textarea
       id: additional-context
       attributes:
