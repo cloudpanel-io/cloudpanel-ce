@@ -1,5 +1,5 @@
 name: 🐛 Bug Report
-description: ⚠️ NEVER report security issues!
+description: ⚠️ NEVER report security issues! Send us an email to security[at]cloudpanel.io
 labels: Bug
 
 body:
