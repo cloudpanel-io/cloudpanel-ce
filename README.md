@@ -19,7 +19,7 @@ Run **PHP**, **Node.js**, **Static Websites**, and Python applications in no tim
 - **Free**
 - **Easy to use**
 - **Community Driven**
-- **Modern**
+- **Blazing Fast Page Loads - Up to 250x faster**
 - **Secure (free SSL/TLS certificates)**
 - **Cloudflare integration**
 - **High Performance**
