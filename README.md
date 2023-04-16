@@ -6,7 +6,7 @@
 
 [CloudPanel](https://www.cloudpanel.io) is a free and modern server control panel to configure and manage a server with an obsessive focus on simplicity.
 
-Run **PHP**, **Node.js**, **Static Websites**, and Python applications in no time on a **High-Performance Technology Stack**.
+Run **PHP**, **Node.js**, **Static Websites**, **Reverse Proxies** and Python applications in no time on a **High-Performance Technology Stack**.
 
 <p align="center">
   <a href="https://www.cloudpanel.io" target="_blank">
@@ -35,6 +35,7 @@ Run **PHP**, **Node.js**, **Static Websites**, and Python applications in no tim
 - [Hetzner Cloud](https://www.cloudpanel.io/docs/v2/getting-started/hetzner-cloud/installation/installer/)
 - [Google Compute Engine](https://www.cloudpanel.io/docs/v2/getting-started/google-compute-engine/installation/installer/)
 - [Microsoft Azure](https://www.cloudpanel.io/docs/v2/getting-started/microsoft-azure/installation/installer/)
+- [Oracle Cloud](https://www.cloudpanel.io/docs/v2/getting-started/oracle-cloud/installation/installer/)
 - [Vultr](https://www.cloudpanel.io/docs/v2/getting-started/vultr/installation/marketplace/)
 - [Other](https://www.cloudpanel.io/docs/v2/getting-started/other/)
 
