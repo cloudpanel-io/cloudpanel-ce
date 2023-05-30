@@ -39,6 +39,10 @@ Run **PHP**, **Node.js**, **Static Websites**, **Reverse Proxies** and Python ap
 - [Vultr](https://www.cloudpanel.io/docs/v2/getting-started/vultr/installation/marketplace/)
 - [Other](https://www.cloudpanel.io/docs/v2/getting-started/other/)
 
+## Discord
+
+<a href="https://discord.cloudpanel.io/"><img src="https://img.shields.io/discord/696694788883349574?label=Discord" alt="Discord"></a>
+
 ## :sparkling_heart: Support This Project
 
 * Please star the project
