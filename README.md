@@ -25,7 +25,7 @@ Run **PHP**, **Node.js**, **Static Websites**, **Reverse Proxies** and Python ap
 - **High Performance**
 - **Ready to go within 1 minute**
 - **Supports all major clouds**
-- **Ubuntu 24.04 and 22.04 Debian 12 and 11 support**
+- **Ubuntu 24.04 and 22.04, Debian 12 and 11 support**
 - **Support for X86 and ARM**
 
 ## :floppy_disk: Installation
