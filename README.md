@@ -10,7 +10,7 @@ Run **PHP**, **Node.js**, **Static Websites**, **Reverse Proxies** and **Python 
 
 <p align="center">
   <a href="https://www.cloudpanel.io" target="_blank">
-    <img src="/assets/images/cloudpanel.png?v=0.0.5">
+    <img src="/assets/images/cloudpanel.png?v=0.0.6">
   </a>
 </p>
 
